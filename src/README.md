@@ -5,7 +5,7 @@
 
 ## Demo
 
-[View project demo] (https://www.ruthcirillo.info/payment-calculator/)
+[View project demo](https://www.ruthcirillo.info/payment-calculator/)
 
 ## Installation
 
