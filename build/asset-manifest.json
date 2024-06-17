@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payment-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/payment-calculator/static/js/main.a36c511d.js",
+    "static/js/453.b4ee8e08.chunk.js": "/payment-calculator/static/js/453.b4ee8e08.chunk.js",
+    "index.html": "/payment-calculator/index.html",
+    "main.e6c13ad2.css.map": "/payment-calculator/static/css/main.e6c13ad2.css.map",
+    "main.a36c511d.js.map": "/payment-calculator/static/js/main.a36c511d.js.map",
+    "453.b4ee8e08.chunk.js.map": "/payment-calculator/static/js/453.b4ee8e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a36c511d.js"
+  ]
+}
